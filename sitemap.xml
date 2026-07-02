@@ -1,1 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+    <url>
+        <loc>https://spokenhindiclass.netlify.app/</loc>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://spokenhindiclass.netlify.app/about.html</loc>
+    </url>
+
+    <url>
+        <loc>https://spokenhindiclass.netlify.app/contact.html</loc>
+    </url>
+
+    <url>
+        <loc>https://spokenhindiclass.netlify.app/privacy-policy.html</loc>
+    </url>
+
+    <url>
+        <loc>https://spokenhindiclass.netlify.app/short-sentences.html</loc>
+    </url>
+
+    <url>
+        <loc>https://spokenhindiclass.netlify.app/medium-sentences.html</loc>
+    </url>
+
+    <url>
+        <loc>https://spokenhindiclass.netlify.app/paragraph-practice.html</loc>
+    </url>
+
+</urlset>
