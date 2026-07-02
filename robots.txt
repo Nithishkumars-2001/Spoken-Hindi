@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://spokenhindiclass.netlify.app/sitemap.xml
